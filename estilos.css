@@ -1,9 +1,19 @@
-body{
+body {
     background-image: url("https://i.pinimg.com/736x/44/98/2b/44982b9b6edcfd221c15019b0f85979a.jpg");
 }
 
-img {
-  position: absolute;
-  top: 200px;
-  left: 100px;
+#main {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#enemie {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    width: 100px;
+    height: 100px;
 }
